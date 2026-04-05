@@ -1,5 +1,10 @@
 # 🚀 랭플로우(Langflow) 초보자 워크숍
 
+## 이 레포의 위치 (agent-research-map 기준)
+- **속하는 축**: 입문 진입점 — 비전문가도 손으로 만지며 에이전트 전체 지형에 들어올 수 있게 해주는 첫 관문이다
+- **전체 지도**: https://github.com/tenacl/agent-research-map
+- **다음에 읽을 것**: [claude-code-mastery](https://github.com/tenacl/claude-code-mastery)
+
 > 오픈소스 비주얼 AI 앱 빌더, Langflow를 처음부터 배워봅시다!
 
 ## Langflow란?
